@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "icon": "../public/service1.png",
+        "title": "Digital Products",
+        "description" : "End-to-End productdesign and engineering. We build high-performance weband mobile applicationswith impeccable UI/UX"
+    },
+    {
+        "id" : 2,
+        "icon": "../public/service3.png",
+        "title": "3D & Motion",
+        "description" : "Cinematic 3D rendering and immersive animations that elevate your brand narrative and captive your audience"
+    },
+    {
+        "id" : 3,
+        "icon": "../public/service3.png",
+        "title": "Brand Strategy",
+        "description" : "Data driven strategy to position your brand as a market leader. We create cohesive identities that scale"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1",
+        "img": "/pix1.jpg",
+        "name" : "Lumina Web3",
+        "type" : "Digital Product & 3D",
+        "height": "493px"
+    },
+    {
+        "id" : "2",
+        "img": "/pix2.jpg",
+        "name" : "Vangurd",
+        "type" : "Mobile Application",
+        "height": "525px"
+    },
+    {
+        "id" : "3",
+        "img": "/pix3.jpg",
+        "name" : "Kroma Studio",
+        "type" : "E-commerce",
+        "height": "493px"
+    },
+    {
+        "id" : "4",
+        "img": "/pix4.jpg",
+        "name" : "Aether OS",
+        "type" : "Interface Design",
+        "height": "384px"
+    },
+    {
+        "id" : "5",
+        "img": "/pix5.jpg",
+        "name" : "Nova Synth",
+        "type" : "Brabd Identity",
+        "height": "220px"
+    },
+    {
+        "id" : "6",
+        "img": "/pix6.jpg",
+        "name" : "Chronos Wear",
+        "type" : "Interaction Design",
+        "height": "384px"
+    }
+]
