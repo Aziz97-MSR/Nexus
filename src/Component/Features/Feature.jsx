@@ -6,14 +6,12 @@ const Feature = (props) => {
         backgroundImage : img
     }
     return (
-        <div style={{backgroundImage : `url(${img})`, backgroundRepeat : 'no-repeat', height : height}} className={`flex justify-between items-end rounded-[10px] pt-[32px] pb-[24px] px-[24px]`}>
-
+        <div style={{backgroundImage : `url(${img})`, backgroundRepeat : 'no-repeat', height : height }} className={`w-full flex justify-between items-end rounded-[10px] pt-4 pb-2 px-2 md:pt-6 md:pb-4 md:px-4  xl:pt-[32px] xl:pb-[24px] xl:px-[24px]`}>
             <div className="text-white">
                 <h3 className='text-xl font-semibold'>{name}</h3>
                 <p>{type}</p>
             </div>
             <div className="roundBackground">
-                <i class="fa-solid fa-arrow-up-right"></i>
             </div>
         </div>
     )

@@ -9,7 +9,7 @@ const Features = () =>
     
 
     return(
-        <article className="grid grid-cols-1 md:grid-cols-3 gap-[10px]">
+        <article className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-[10px]">
             {
                 features?.map(feature=><Feature key={feature.id} product={feature}></Feature>)
             }

@@ -8,7 +8,7 @@ const Nav = () => {
                     </div>
                     <h4 className="text-xl font-semibold">Nexus</h4>
                 </div>
-                <div className="flex items-center justify-center gap-x-[32px]">
+                <div className="flex flex-col md:flex-row items-center justify-center gap-[32px] md:gap-x-[32px]">
                     <p>Work</p>
                     <p>Studio</p>
                     <p className="">Service</p>
