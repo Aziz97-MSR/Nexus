@@ -9,13 +9,13 @@ function App() {
 
 
   return (
-    <>
+    <main>
       <Nav></Nav>
       <Home></Home>
       <Second></Second>
       <Third></Third>
       <Footer></Footer>
-    </>
+    </main>
   )
 }
 

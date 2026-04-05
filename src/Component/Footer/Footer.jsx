@@ -2,8 +2,8 @@ const Footer = () => {
     return (
         <section className="px-[120px]  bg-[#0F142066]/40">
             <footer className="flex flex-col md:flex-row justify-between items-center pt-[80px] pb-[40px]">
-                <div className="flex items-center gap-x-[8px]">
-                    <div className="bg-[#7C3AED] w-[24px] h-[24px] flex justify-center items-center rounded-[6px] mb-5">
+                <div className="flex items-center gap-x-[8px] mb-10">
+                    <div className="bg-[#7C3AED] w-[24px] h-[24px] flex justify-center items-center rounded-[6px]">
                         <img src="../../public/Nav.png"  alt="logo" />
                     </div>
                     <h4 className="text-xl font-semibold">NEXUS</h4>
