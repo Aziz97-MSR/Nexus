@@ -5,6 +5,7 @@ import Footer from '../src/Component/Footer/Footer'
 import Home from '../src/Component/Home/Home'
 import Nav from '../src/Component/Nav/Nav'
 import './App.css'
+import Test from './Component/Test/Test'
 function App() {
 
 
@@ -14,6 +15,7 @@ function App() {
       <Home></Home>
       <Second></Second>
       <Third></Third>
+
       <Footer></Footer>
     </main>
   )

@@ -8,7 +8,7 @@ const Capabilities = () =>
     console.log(cap)
 
     return(
-        <article className="grid grid-cpls-1 md:grid-cols-2 xl:grid-cols-3 gap-[24px] mt-10 p-[40px]">
+        <article className="grid grid-cpls-1 md:grid-cols-2 xl:grid-cols-3 gap-[24px] mt-10  xl:p-[40px]">
             {
                 cap?.map(cap=><Capability key={cap.id} product={cap}></Capability>)
             }
