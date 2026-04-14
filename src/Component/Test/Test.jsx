@@ -4,7 +4,7 @@ const Test = () => {
     const [section, setSection] = useState([])
 
     useEffect(() => {
-        fetch('http://localhost:8000/home').then(res => res.json()).then(data => setSection(data))
+        fetch('http://localhost:8000/hero').then(res => res.json()).then(data => setSection(data))
     }, [])
 
     console.log(section);

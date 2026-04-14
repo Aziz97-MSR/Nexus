@@ -5,7 +5,6 @@ const Capabilities = () =>
 {
     const [cap,setCap] = useCap()
 
-    console.log(cap)
 
     return(
         <article className="grid grid-cpls-1 md:grid-cols-2 xl:grid-cols-3 gap-[24px] mt-10  xl:p-[40px]">

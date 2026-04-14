@@ -15,7 +15,6 @@ function App() {
       <Home></Home>
       <Second></Second>
       <Third></Third>
-
       <Footer></Footer>
     </main>
   )
